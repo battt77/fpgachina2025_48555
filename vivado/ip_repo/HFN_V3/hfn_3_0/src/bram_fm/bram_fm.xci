@@ -5,7 +5,7 @@
     "cell_name": "hfn_v3_0_AXI_COMBINED_inst/u_Norm_top/u_bram_fm",
     "component_reference": "xilinx.com:ip:blk_mem_gen:8.4",
     "ip_revision": "5",
-    "gen_directory": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/bram_fm",
+    "gen_directory": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9_p/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/bram_fm",
     "parameters": {
       "component_parameters": {
         "Component_Name": [ { "value": "bram_fm", "resolve_type": "user", "usage": "all" } ],
@@ -177,7 +177,7 @@
         "IPCONTEXT": [ { "value": "IP_Flow" } ],
         "IPREVISION": [ { "value": "5" } ],
         "MANAGED": [ { "value": "TRUE" } ],
-        "OUTPUTDIR": [ { "value": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/bram_fm" } ],
+        "OUTPUTDIR": [ { "value": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9_p/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/bram_fm" } ],
         "SELECTEDSIMMODEL": [ { "value": "" } ],
         "SHAREDDIR": [ { "value": "." } ],
         "SWVERSION": [ { "value": "2022.2" } ],

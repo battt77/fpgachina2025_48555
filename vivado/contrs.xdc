@@ -1,0 +1,13 @@
+set_property PACKAGE_PIN AL11 [get_ports user_lnk_up_0]
+set_property IOSTANDARD LVCMOS12 [get_ports user_lnk_up_0]
+set_property PACKAGE_PIN AL13 [get_ports {GPIO_0_tri_o[0]}]
+set_property IOSTANDARD LVCMOS12 [get_ports {GPIO_0_tri_o[0]}]
+set_property IOSTANDARD LVCMOS18 [get_ports mode]
+set_property PACKAGE_PIN B13 [get_ports mode]
+set_property PACKAGE_PIN AM11 [get_ports {led}]
+set_property IOSTANDARD LVCMOS12 [get_ports {led}]
+
+set_property C_CLK_INPUT_FREQ_HZ 300000000 [get_debug_cores dbg_hub]
+set_property C_ENABLE_CLK_DIVIDER false [get_debug_cores dbg_hub]
+set_property C_USER_SCAN_CHAIN 1 [get_debug_cores dbg_hub]
+connect_debug_port dbg_hub/clk [get_nets clk]

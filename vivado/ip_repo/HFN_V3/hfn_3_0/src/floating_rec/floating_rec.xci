@@ -5,7 +5,7 @@
     "cell_name": "hfn_v3_0_AXI_COMBINED_inst/u_Norm_top/u_FM_top/u_FM_first_stage/_floating_rec",
     "component_reference": "xilinx.com:ip:floating_point:7.1",
     "ip_revision": "15",
-    "gen_directory": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/floating_rec",
+    "gen_directory": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9_p/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/floating_rec",
     "parameters": {
       "component_parameters": {
         "Component_Name": [ { "value": "floating_rec", "resolve_type": "user", "usage": "all" } ],
@@ -150,7 +150,7 @@
         "IPCONTEXT": [ { "value": "IP_Flow" } ],
         "IPREVISION": [ { "value": "15" } ],
         "MANAGED": [ { "value": "TRUE" } ],
-        "OUTPUTDIR": [ { "value": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/floating_rec" } ],
+        "OUTPUTDIR": [ { "value": "../../../../../../../../fpga2025/prj/hfln_v8_to_v9_p/hfln_v1.tmp/hfn_v3_0_project/hfn_v3_0_project.gen/sources_1/ip/floating_rec" } ],
         "SELECTEDSIMMODEL": [ { "value": "" } ],
         "SHAREDDIR": [ { "value": "." } ],
         "SWVERSION": [ { "value": "2022.2" } ],
